@@ -1,0 +1,18 @@
+# Core data processing
+pandas==1.5.3
+numpy==1.23.5
+
+# Visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Machine Learning & Statistics
+scikit-learn==1.2.2
+statsmodels==0.14.0
+
+# Jupyter/Colab
+ipython==8.10.0
+
+# Optional but recommended
+plotly==5.14.1  # For interactive plots
+tqdm==4.65.0    # For progress bars
