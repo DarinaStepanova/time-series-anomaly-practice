@@ -57,6 +57,7 @@
 ```bash
 git clone https://github.com/DarinaStepanova/time-series-anomaly-practice.git
 cd time-series-anomaly-practice
+```
 
 ### ИНСТРУКЦИЯ ПО УСТАНОВКЕ
 
